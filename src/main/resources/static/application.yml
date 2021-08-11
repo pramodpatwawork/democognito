@@ -1,0 +1,15 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          cognito:
+            client-id: ${client_id}
+            client-secret: ${client_secret}
+            scope: openid
+            redirect-uri: http://localhost:8080/login/oauth2/code/cognito
+            clientName: democognito
+        provider:
+          cognito:
+            issuerUri: https://cognito-idp.${region_name}.amazonaws.com/${pool_name}
+            user-name-attribute: cognito:username
