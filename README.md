@@ -4,6 +4,7 @@
 
 * https://rieckpil.de/thymeleaf-oauth2-login-with-spring-security-and-aws-cognito/
 * https://arjunsk.medium.com/resource-server-with-cognito-b7fbfbee0155
+* https://medium.com/swlh/authenticate-spring-boot-api-with-aws-cognito-cbb6f4d7a10a
 
 ## Google APP setting
 
