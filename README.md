@@ -1,6 +1,9 @@
 # democognito
-cognito poc
-https://rieckpil.de/thymeleaf-oauth2-login-with-spring-security-and-aws-cognito/
+
+## cognito poc
+
+* https://rieckpil.de/thymeleaf-oauth2-login-with-spring-security-and-aws-cognito/
+* https://arjunsk.medium.com/resource-server-with-cognito-b7fbfbee0155
 
 ## Google APP setting
 
